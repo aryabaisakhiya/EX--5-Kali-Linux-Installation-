@@ -1,7 +1,4 @@
-# Installing Kali Linux on VirtualBox
-
-### Name: ARYA BAISAKHIYA
-### Reg No: 212222040019
+#  EX 4 Installing Kali Linux on VirtualBox
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
